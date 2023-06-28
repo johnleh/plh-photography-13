@@ -1,14 +1,13 @@
-import Image from 'next/image'
 import BasicPage from '@comps/templates/basicPage'
 
 const pageData = {
-  title: 'Paul Le Houillier\'s Photography',
+  title: 'Contact Paul Le Houillier',
 }
 
-export default function Home() {
+export default function Contact() {
   return (
     <main>
       <BasicPage pageData={pageData}/>
     </main>
-  ) 
+  )
 }

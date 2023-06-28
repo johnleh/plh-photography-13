@@ -2,7 +2,7 @@ import Image from 'next/image'
 import BasicPage from '@comps/templates/basicPage'
 
 const pageData = {
-  title: 'Paul Le Houillier\'s Photography',
+  title: 'Loading...',
 }
 
 export default function Home() {
